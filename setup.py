@@ -12,6 +12,5 @@ setup(name='poetrytools',
       url='http://github.com/hyperreality/Poetry-Tools',
       license='MIT',
       packages=['poetrytools'],
-      install_requires=['python-levenshtein'],
       include_package_data=True
 )
